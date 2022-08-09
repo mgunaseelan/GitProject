@@ -1,6 +1,6 @@
 public class Hub{
     Public Static void main (String[]args){
-   int a=10;
+   int a=200;
    int b=60;
   
 
