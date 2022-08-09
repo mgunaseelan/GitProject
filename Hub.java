@@ -4,6 +4,6 @@ public class Hub{
    int b=60;
   
 
-   System.out.println(a*b)
+   System.out.println(a/b)
 }
 }
